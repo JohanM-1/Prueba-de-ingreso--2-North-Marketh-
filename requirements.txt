@@ -1,0 +1,26 @@
+# Core libraries
+requests>=2.31.0
+beautifulsoup4>=4.11.0
+selenium>=4.15.0
+pandas>=2.1.0
+openpyxl>=3.1.2
+
+# Instagram API alternatives
+instaloader>=4.10.3
+
+# Data processing
+regex>=2023.8.8
+python-dateutil>=2.8.2
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Additional dependencies
+fake-useragent>=1.4.0
+webdriver-manager>=4.0.1
+time-machine>=2.13.0
+
+# Logging and utilities
+colorama>=0.4.6
+urllib3>=2.0.7 
