@@ -1,10 +1,10 @@
 # Instagram Followers Extractor
 
-Script para extraer información pública de seguidores de cuentas de Instagram y exportarla a Excel o CSV.
+Script para extraer información pública de seguidores de cuentas de Instagram y exportarla a Excel.
 
 ## Características
 - Extrae seguidores de cuentas objetivo (ej: @elcorteingles, @mercadona, @carrefoures)
-- Exporta datos a Excel y/o CSV
+- Exporta datos a Excel
 - Solo usa datos públicos
 
 ## Uso rápido
